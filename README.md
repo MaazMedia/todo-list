@@ -1,1 +1,1 @@
-It is a simple todo-list app that i created as a project to show my skills of javascript todo-list was the best project to show my javascript skills to others 
+As a showcase of my Javascript skills, I created a simple todo-list app. You can access it at https://maazmedia.github.io/todo-list/.
